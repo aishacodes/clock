@@ -23,10 +23,10 @@
 .card {
     position: relative;
     width: 30rem;
-    height: 15rem;
+    padding: 7rem 0;
     border: 4px solid turquoise;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: center;
 }
 
@@ -67,4 +67,8 @@ span {
 span.hour:after,
 .minute:after {
     content: ':';
+}
+
+span.meridian {
+    font-size: 1.5rem;
 }
