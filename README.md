@@ -1,7 +1,7 @@
 # clock
 **An implementation of an Analog and Digital clock with HTML/CSS/ Vanilla JS**
 ## Preview
-[demo]()
+[demo](https://a-dclock.netlify.app/)
 
 ## Getting Started
 Clone or download this repository and run with a local server of open `index.html` with your favorite browser
