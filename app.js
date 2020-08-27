@@ -35,6 +35,7 @@ let clockInstance = setInterval(() => {
     hour = hour % 12;
     renderClock()
 }, 1000)
+
 setTimeout(() => {
     clearInterval(clockInstance)
 }, 5000)
